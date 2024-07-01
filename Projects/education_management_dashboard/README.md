@@ -43,6 +43,7 @@ The development plan follows a phased approach:
 **Phase 3:** Scaling and Optimization (3 months): Implementing advanced analytics, optimizing performance, and integrating AI-driven features for personalized learning recommendations.
 
 **Workflow Process**
+
 The development lifecycle includes:
 
 1. Requirement Gathering: Analyzing user needs, market demands, and technical specifications.
@@ -51,6 +52,7 @@ The development lifecycle includes:
 4. Maintenance and Updates: Providing ongoing support, bug fixes, and feature enhancements based on user feedback and industry trends.
    
 **Metrics for Success**
+
 Key metrics to measure project success include:
 
 1. User Engagement: Active user metrics, session durations, and interaction frequencies.
@@ -60,6 +62,7 @@ Key metrics to measure project success include:
 
 
 **Future Enhancements**
+
 Future plans for the International Olympiad Academy include:
 
 1. Expansion of content offerings to cover additional subjects and levels.
