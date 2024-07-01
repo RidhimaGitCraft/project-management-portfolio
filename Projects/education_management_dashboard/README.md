@@ -20,17 +20,17 @@ A competitive analysis was conducted to evaluate existing platforms offering sim
 
 The project encompasses several key functionalities and enhancements:
 
-1. Cart System: Implementing a user-friendly cart system for purchasing exams and study materials.
-2. Bulk Registration: Enabling seamless online and offline bulk registration processes for schools and partners.
-3. Ebook Format: Creating secure ebooks with Digital Rights Management (DRM) and interactive features for enhanced learning.
-4. Student Dashboard: Developing a centralized dashboard for students to manage purchases, access study materials, and track exam registrations.
-5. Payment Data Reflection: Addressing issues related to payment reflections and ensuring seamless registration confirmations.
-6. Centralized Registration: Facilitating registration through the IOA website, integrating with backend systems.
-7. Integrated Data Management: Capturing and processing data efficiently across platforms.
-8. Backend Reports: Implementing tracking reports for student activities and purchases.
-4. Referral and Feedback System: Integrating a system for referrals, feedback collection, and notifications.
-5. Admit Card Management: Implementing systems for updating and confirming admit card status for students.
-6. SEO and Performance Optimization: Conducting SEO and performance optimizations to enhance platform visibility and user experience.
+1. **Cart System:** Implementing a user-friendly cart system for purchasing exams and study materials.
+2. **Bulk Registration:** Enabling seamless online and offline bulk registration processes for schools and partners.
+3. **Ebook Format:** Creating secure ebooks with Digital Rights Management (DRM) and interactive features for enhanced learning.
+4. **Student Dashboard:** Developing a centralized dashboard for students to manage purchases, access study materials, and track exam registrations.
+5. **Payment Data Reflection:** Addressing issues related to payment reflections and ensuring seamless registration confirmations.
+6. **Centralized Registration:** Facilitating registration through the IOA website, integrating with backend systems.
+7. **Integrated Data Management:** Capturing and processing data efficiently across platforms.
+8. **Backend Reports:** Implementing tracking reports for student activities and purchases.
+4. **Referral and Feedback System:** Integrating a system for referrals, feedback collection, and notifications.
+5. **Admit Card Management:** Implementing systems for updating and confirming admit card status for students.
+6. **SEO and Performance Optimization:** Conducting SEO and performance optimizations to enhance platform visibility and user experience.
    
 **Product Roadmap**
 
@@ -46,10 +46,10 @@ The development plan follows a phased approach:
 
 The development lifecycle includes:
 
-1. Requirement Gathering: Analyzing user needs, market demands, and technical specifications.
-2. Design and Development: Creating wireframes, mockups, and iterative development cycles.
-3. Testing and Deployment: Conducting rigorous testing to ensure functionality, security, and performance.
-4. Maintenance and Updates: Providing ongoing support, bug fixes, and feature enhancements based on user feedback and industry trends.
+1. **Requirement Gathering:** Analyzing user needs, market demands, and technical specifications.
+2. **Design and Development:** Creating wireframes, mockups, and iterative development cycles.
+3. **Testing and Deployment:** Conducting rigorous testing to ensure functionality, security, and performance.
+4. **Maintenance and Updates:** Providing ongoing support, bug fixes, and feature enhancements based on user feedback and industry trends.
    
 **Metrics for Success**
 
