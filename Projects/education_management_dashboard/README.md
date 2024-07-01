@@ -20,23 +20,26 @@ Project Scope
 
 The project encompasses several key functionalities and enhancements:
 
-Cart System: Implementing a user-friendly cart system for purchasing exams and study materials.
-Bulk Registration: Enabling seamless online and offline bulk registration processes for schools and partners.
-Ebook Format: Creating secure ebooks with Digital Rights Management (DRM) and interactive features for enhanced learning.
-Student Dashboard: Developing a centralized dashboard for students to manage purchases, access study materials, and track exam registrations.
-Payment Data Reflection: Addressing issues related to payment reflections and ensuring seamless registration confirmations.
-Centralized Registration: Facilitating registration through the IOA website, integrating with backend systems.
-Integrated Data Management: Capturing and processing data efficiently across platforms.
-Backend Reports: Implementing tracking reports for student activities and purchases.
-Referral and Feedback System: Integrating a system for referrals, feedback collection, and notifications.
-Admit Card Management: Implementing systems for updating and confirming admit card status for students.
-SEO and Performance Optimization: Conducting SEO and performance optimizations to enhance platform visibility and user experience.
+1. Cart System: Implementing a user-friendly cart system for purchasing exams and study materials.
+2. Bulk Registration: Enabling seamless online and offline bulk registration processes for schools and partners.
+3. Ebook Format: Creating secure ebooks with Digital Rights Management (DRM) and interactive features for enhanced learning.
+4. Student Dashboard: Developing a centralized dashboard for students to manage purchases, access study materials, and track exam registrations.
+5. Payment Data Reflection: Addressing issues related to payment reflections and ensuring seamless registration confirmations.
+6. Centralized Registration: Facilitating registration through the IOA website, integrating with backend systems.
+7. Integrated Data Management: Capturing and processing data efficiently across platforms.
+8. Backend Reports: Implementing tracking reports for student activities and purchases.
+4. Referral and Feedback System: Integrating a system for referrals, feedback collection, and notifications.
+5. Admit Card Management: Implementing systems for updating and confirming admit card status for students.
+6. SEO and Performance Optimization: Conducting SEO and performance optimizations to enhance platform visibility and user experience.
+   
 Product Roadmap
+
 The development plan follows a phased approach:
 
 Phase 1: MVP Development (3 months): Basic platform setup with user authentication, study materials integration, and initial dashboard features.
 Phase 2: Feature Expansion (6 months): Adding interactive features like live chat support, peer-to-peer forums, and enhanced user dashboards.
 Phase 3: Scaling and Optimization (3 months): Implementing advanced analytics, optimizing performance, and integrating AI-driven features for personalized learning recommendations.
+
 Workflow Process
 The development lifecycle includes:
 
