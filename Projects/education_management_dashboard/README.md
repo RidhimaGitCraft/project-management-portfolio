@@ -1,5 +1,7 @@
 Education Management Dashboard
+
 Overview
+
 The International Olympiad Academy project aims to create an online platform offering comprehensive resources and support for students preparing for various Olympiad exams worldwide. This README provides an overview of the project scope, objectives, roadmap, and key considerations.
 
 Project Objectives
