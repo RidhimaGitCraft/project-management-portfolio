@@ -1,6 +1,4 @@
-Education Management Dashboard
-Overview
-The Education Management Dashboard project aims to create the International Olympiad Academy, an online platform offering comprehensive resources and support for students preparing for various Olympiad exams worldwide. This README provides an overview of the project scope, objectives, roadmap, and key considerations.
+# International Olympiad Academy
 
 Project Objectives
 The primary objective of the International Olympiad Academy is to provide a centralized platform for students to access:
