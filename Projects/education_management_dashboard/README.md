@@ -5,15 +5,19 @@ Overview
 The International Olympiad Academy project aims to create an online platform offering comprehensive resources and support for students preparing for various Olympiad exams worldwide. This README provides an overview of the project scope, objectives, roadmap, and key considerations.
 
 Project Objectives
+
 The primary objective of the International Olympiad Academy is to provide a centralized platform for students to access:
 
-Study materials including past papers, workbooks, and interactive mock tests.
-Features for user engagement such as forums for discussing doubts and receiving expert guidance.
-Efficient registration processes and updates about upcoming Olympiad exams.
+1. Study materials including past papers, workbooks, and interactive mock tests.
+2. Features for user engagement such as forums for discussing doubts and receiving expert guidance.
+3. Efficient registration processes and updates about upcoming Olympiad exams.
+
 Competitive Analysis
+
 A competitive analysis was conducted to evaluate existing platforms offering similar services, identifying opportunities for differentiation in user experience, content quality, and service efficiency.
 
 Project Scope
+
 The project encompasses several key functionalities and enhancements:
 
 Cart System: Implementing a user-friendly cart system for purchasing exams and study materials.
