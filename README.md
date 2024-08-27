@@ -71,3 +71,4 @@ Hi, my name is Ridhima Singh. I am currently in my 2nd year, 3rd semester, pursu
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ridhimasingh08/)
 - [Email](mailto:rsingh59@hawk.iit.edu)
+- [Instagram](https://www.instagram.com/pm_strategy_hub)
