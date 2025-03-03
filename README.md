@@ -1,74 +1,84 @@
-# Product Management Portfolio
+# Project Management Portfolio  
 
-## About Me
+## About Me  
 
-Hi, my name is Ridhima Singh. I am currently in my 2nd year, 3rd semester, pursuing a Master’s in Information Technology and Management from Illinois Tech. With over 6 years of industry experience, including 4 years as a project manager, I've gained significant insights and skills in product management. During my recent summer internship, I worked as a product manager, which allowed me to deepen my understanding of the field. In this portfolio, I showcase various projects and case studies that highlight my journey and expertise in product management.
+Hi, my name is **Ridhima Singh**, and I am currently in my **final semester** pursuing a **Master’s in Information Technology and Management** from **Illinois Institute of Technology**.  
 
-## Projects
+With over **6 years of industry experience**, including **4 years as a project manager**, I have led cross-functional teams, optimized workflows, and implemented data-driven decision-making strategies. I specialize in:  
 
-### 1. **Product Strategy & Roadmap Development**
-- **Description:** Developed a comprehensive product strategy and roadmap for a hypothetical product, including market research, feature prioritization, and roadmap creation.
-- **Highlights:** Market research findings, detailed product roadmap, prioritization rationale.
-- [View Project](#)
+- **Agile project management**  
+- **Process improvement**  
+- **Data-driven decision-making**  
+- **Stakeholder collaboration**  
 
-### 2. **Customer Journey Mapping**
-- **Description:** Created customer personas and mapped out the customer journey for a product, identifying key touchpoints, pain points, and areas for improvement.
-- **Highlights:** Customer journey map, personas, action plan for enhancing customer experience.
-- [View Project](#)
+I have hands-on experience with tools like **Power BI, SQL, Excel, Jira, Confluence, Tableau, and CRM software**, along with expertise in **Lean Six Sigma methodologies** and **SaaS project management**.  
 
-### 3. **Competitor Analysis & Product Positioning**
-- **Description:** Conducted a thorough competitor analysis and developed a product positioning strategy to differentiate a hypothetical product in the market.
-- **Highlights:** SWOT analysis, competitive landscape overview, positioning strategy.
-- [View Project](#)
+This portfolio showcases my expertise through various projects that demonstrate my ability to drive operational efficiency, enhance collaboration, and implement strategic solutions.  
 
-### 4. **Wireframing & Prototyping**
-- **Description:** Designed wireframes and built a low-fidelity prototype for a product feature, incorporating user feedback to refine the design.
-- **Highlights:** Wireframes, prototype link, user testing feedback and iterations.
-- [View Project](#)
+---
 
-### 5. **Go-To-Market Strategy**
-- **Description:** Developed a go-to-market strategy for launching a product, including target audience analysis, marketing channels, and launch plan.
-- **Highlights:** Target audience profile, marketing strategy, launch timeline.
-- [View Project](#)
+## Projects  
 
-### 6. **Usability Testing & User Feedback Analysis**
-- **Description:** Conducted usability testing for a product prototype, analyzed user feedback, and provided recommendations for improvements.
-- **Highlights:** Usability testing report, user feedback analysis, improvement recommendations.
-- [View Project](#)
+### 1. **Bank Loan Analysis – Tableau Dashboard**  
+- **Description:** Developed an interactive **Tableau dashboard** to analyze loan approval trends, risk factors, and financial patterns for a banking institution.  
+- **Tools:** Tableau, SQL, Excel  
+- **Key Outcomes:** Improved risk assessment, enhanced decision-making, automated data visualization.  
+- **[View Project](#)**  
 
-### 7. **Feature Prioritization Workshop**
-- **Description:** Facilitated a feature prioritization workshop, creating a backlog and prioritizing features based on business goals and stakeholder input.
-- **Highlights:** Prioritized feature list, workshop summary.
-- [View Project](#)
+### 2. **Power BI Sales Performance Dashboard**  
+- **Description:** Designed a **Power BI dashboard** to track key sales performance indicators, revenue trends, and customer acquisition metrics.  
+- **Tools:** Power BI, SQL, CRM Software  
+- **Key Outcomes:** Enhanced sales forecasting, streamlined reporting, increased data accuracy.  
+- **[View Project](#)**  
 
-### 8. **Product Metrics Dashboard**
-- **Description:** Designed a dashboard to track key performance indicators (KPIs) for a product, providing insights and recommendations based on the metrics.
-- **Highlights:** Dashboard screenshots, KPI analysis, strategic recommendations.
-- [View Project](#)
+### 3. **Jira & Confluence – Agile Sprint Management**  
+- **Description:** Led Agile sprints using **Jira and Confluence**, managing backlog grooming, sprint planning, and retrospectives for an IT project.  
+- **Tools:** Jira, Confluence, Agile Methodology  
+- **Key Outcomes:** Improved sprint efficiency, reduced bottlenecks, enhanced cross-team collaboration.  
+- **[View Project](#)**  
 
-### 9. **Agile Sprint Planning**
-- **Description:** Planned and executed an Agile sprint, including backlog creation, sprint goals, and retrospective evaluation.
-- **Highlights:** Sprint backlog, sprint plan, retrospective summary.
-- [View Project](#)
+### 4. **Lean Six Sigma – Process Optimization**  
+- **Description:** Applied **Lean Six Sigma** methodologies to optimize an internal business process, reducing inefficiencies and increasing productivity.  
+- **Tools:** Lean Six Sigma, Excel, Data Analysis  
+- **Key Outcomes:** 20% improvement in process efficiency, reduced waste, improved resource utilization.  
+- **[View Project](#)**  
 
-### 10. **Market Research Report**
-- **Description:** Conducted a market research study to identify trends, customer needs, and competitive landscape, providing actionable insights.
-- **Highlights:** Market research report, data analysis, strategic recommendations.
-- [View Project](#)
+### 5. **SaaS Project Management – CRM Implementation**  
+- **Description:** Managed the implementation of a **SaaS-based CRM platform**, overseeing requirements gathering, vendor coordination, and user training.  
+- **Tools:** CRM Software, Project Management Frameworks  
+- **Key Outcomes:** Increased customer retention, improved lead tracking, streamlined operations.  
+- **[View Project](#)**  
 
-## Case Studies
+---
 
-### **Spotify User Engagement**
-- **Description:** Analyzed user engagement metrics for Spotify and developed strategies to improve user retention and engagement.
-- [View Case Study](#)
+## Case Studies  
 
-## Blog Posts
+### **Project Risk Management – A Case Study in IT Infrastructure**  
+- **Description:** Analyzed risk factors affecting IT infrastructure projects and developed a mitigation strategy to reduce downtime.  
+- **[View Case Study](#)**  
 
-- [Link to Blog Post 1](#)
-- [Link to Blog Post 2](#)
+---
 
+## Certifications & Skills  
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/ridhimasingh08/)
-- [Email](mailto:rsingh59@hawk.iit.edu)
-- [Instagram](https://www.instagram.com/pm_strategy_hub)
+### **Certifications:**  
+- _(Add any PMP, Lean Six Sigma, Agile certifications if applicable)_  
+
+### **Tools & Technologies:**  
+- Power BI, SQL, Excel, Jira, Confluence, Tableau, CRM Software  
+
+### **Methodologies:**  
+- Agile, Scrum, Lean Six Sigma, Waterfall  
+
+---
+
+## Contact  
+
+📌 **LinkedIn:** [linkedin.com/in/ridhimasingh08](https://www.linkedin.com/in/ridhimasingh08/)  
+📧 **Email:** [rsingh59@hawk.iit.edu](mailto:rsingh59@hawk.iit.edu)  
+📱 **Instagram:** [@pm_strategy_hub](https://www.instagram.com/pm_strategy_hub)  
+
+---
+
+💡 **This portfolio is a work in progress!** More projects and case studies will be added soon. Stay tuned! 🚀  
+
