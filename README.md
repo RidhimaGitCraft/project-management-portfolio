@@ -75,10 +75,10 @@ This portfolio showcases my expertise through various projects that demonstrate 
 ## Contact  
 
 📌 **LinkedIn:** [linkedin.com/in/ridhimasingh08](https://www.linkedin.com/in/ridhimasingh08/)  
-📧 **Email:** [rsingh59@hawk.iit.edu](mailto:rsingh59@hawk.iit.edu)  
+📧 **Email:** [singh.ridhima0825@singh59@gmail.com](mailto:singh.ridhima0825@gmail.com)  
 📱 **Instagram:** [@pm_strategy_hub](https://www.instagram.com/pm_strategy_hub)  
 
 ---
 
-💡 **This portfolio is a work in progress!** More projects and case studies will be added soon. Stay tuned! 🚀  
+**This portfolio is a work in progress!** More projects and case studies will be added soon. Stay tuned! 
 
