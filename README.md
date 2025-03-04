@@ -64,7 +64,7 @@ This portfolio showcases my expertise through various projects that demonstrate 
 ## Certifications & Skills  
 
 ### **Certifications:**  
-- _(Add any PMP, Lean Six Sigma, Agile certifications if applicable)_  
+- Preparing for PMP, expected to take the exam by the end of March.
 
 ### **Tools & Technologies:**  
 - Power BI, SQL, Excel, Jira, Confluence, Tableau, CRM Software  
