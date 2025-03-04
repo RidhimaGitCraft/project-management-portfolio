@@ -23,7 +23,7 @@ This portfolio showcases my expertise through various projects that demonstrate 
 - **Description:** Developed an interactive **Tableau dashboard** to analyze loan approval trends, risk factors, and financial patterns for a banking institution.  
 - **Tools:** Tableau, SQL, Excel  
 - **Key Outcomes:** Improved risk assessment, enhanced decision-making, automated data visualization.  
-- **[View Project](#) (https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/Tableau/BankLoan)**  
+- **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/Tableau/BankLoan)**  
 
 ### 2. **Power BI Sales Performance Dashboard**  
 - **Description:** Designed a **Power BI dashboard** to track key sales performance indicators, revenue trends, and customer acquisition metrics.  
