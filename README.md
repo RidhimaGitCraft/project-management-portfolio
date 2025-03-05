@@ -19,8 +19,6 @@ This portfolio showcases my expertise through various projects that demonstrate 
 
 ## Projects  
 
-## Projects  
-
 ### 1. **Bank Loan Analysis – Tableau Dashboard**  
 - **Description:** Developed an interactive **Tableau dashboard** to provide comprehensive insights into key loan-related metrics and their changes over time. This report aims to facilitate data-driven decision-making, track loan portfolio health, and identify trends to inform lending strategies. The dashboard serves as a powerful tool for analyzing loan approval trends, risk factors, and financial patterns for a banking institution. 
 - **Tools:** Tableau, SQL, Excel  
