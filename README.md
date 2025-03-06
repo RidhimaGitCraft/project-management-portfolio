@@ -29,7 +29,7 @@ This portfolio showcases my expertise through various projects that demonstrate 
      - Enhanced decision-making processes.
      - Automated data visualization for efficient analysis.
 - **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BankLoan)**
-![Bank Loan Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images.png)  
+![Bank Loan Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BankLoan/Images)  
 ### 2. **Power BI Project Management Dashboard**  
 - **Description:** A dynamic **Power BI dashboard** designed to track and analyze project performance across multiple dimensions, including cost, benefit, complexity, and progress. It provides real-time insights to project managers for better decision-making.
 - **Tools:** Power BI, CSV (Excel), Data Modeling
