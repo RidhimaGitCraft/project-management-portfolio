@@ -20,21 +20,25 @@ This portfolio showcases my expertise through various projects that demonstrate 
 ## Projects  
 
 ### 1. **Bank Loan Analysis – Tableau Dashboard**  
-- **Description:** Developed an interactive **Tableau dashboard** to provide comprehensive insights into key loan-related metrics and their changes over time. This report aims to facilitate data-driven decision-making, track loan portfolio health, and identify trends to inform lending strategies. The dashboard serves as a powerful tool for analyzing loan approval trends, risk factors, and financial patterns for a banking institution. 
+- **Description:**Developed an interactive **Tableau dashboard** to provide comprehensive insights into key loan-related metrics and their changes over time. This report aims to facilitate data-driven decision-making, track loan portfolio health, and identify trends to inform lending strategies. The dashboard serves as a powerful tool for analyzing loan approval trends, risk factors, and financial patterns for a banking institution. 
 - **Tools:** Tableau, SQL, Excel  
 - **Key Outcomes:** 
-     - Created a comprehensive and user-friendly interface for accessing vital loan data
-     - Established a one-stop solution for detailed insights into loan portfolio, borrower profiles, and loan - performance
-     - Improved risk assessment capabilities
-     - Enhanced decision-making processes
-     - Automated data visualization for efficient analysis 
+     - Created a comprehensive and user-friendly interface for accessing vital loan data.
+     - Established a one-stop solution for detailed insights into loan portfolio, borrower profiles, and loan performance.
+     - Improved risk assessment capabilities.
+     - Enhanced decision-making processes.
+     - Automated data visualization for efficient analysis.
 - **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BankLoan)**
-
-### 2. **Power BI Sales Performance Dashboard**  
-- **Description:** Designed a **Power BI dashboard** to track key sales performance indicators, revenue trends, and customer acquisition metrics.  
-- **Tools:** Power BI, SQL, CRM Software  
-- **Key Outcomes:** Enhanced sales forecasting, streamlined reporting, increased data accuracy.  
-- **[View Project](#)**  
+![Bank Loan Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images.png)  
+### 2. **Power BI Project Management Dashboard**  
+- **Description:** A dynamic **Power BI dashboard** designed to track and analyze project performance across multiple dimensions, including cost, benefit, complexity, and progress. It provides real-time insights to project managers for better decision-making.
+- **Tools:** Power BI, CSV (Excel), Data Modeling
+- **Key Outcomes:** 
+     - Interactive visual representation of project costs, benefits, and phases.
+     - Enhanced tracking of project status and completion percentage.
+     - Data-driven decision-making through real-time analytics.
+     - Improved resource allocation and financial planning.
+- **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/ProjectManagementReport)**  
 
 ### 3. **Jira & Confluence – Agile Sprint Management**  
 - **Description:** Led Agile sprints using **Jira and Confluence**, managing backlog grooming, sprint planning, and retrospectives for an IT project.  
