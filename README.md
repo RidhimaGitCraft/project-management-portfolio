@@ -73,7 +73,7 @@ This portfolio showcases my expertise through various projects that demonstrate 
 ## Certifications & Skills  
 
 ### **Certifications:**  
-- Preparing for PMP, expected to take the exam by the end of March.
+- Preparing for PMP, expected to take the exam by the end of May.
 
 ### **Tools & Technologies:**  
 - Power BI, SQL, Excel, Jira, Confluence, Tableau, CRM Software  
