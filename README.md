@@ -42,24 +42,15 @@ This portfolio showcases my expertise through various projects that demonstrate 
 - **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/ProjectManagementReport)**  
 ![Project Management Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/ProjectManagementReport/Project_Management_Dashboard_View.png) 
 
-### 3. **Jira & Confluence – Agile Sprint Management**  
-- **Description:** Led Agile sprints using **Jira and Confluence**, managing backlog grooming, sprint planning, and retrospectives for an IT project.  
-- **Tools:** Jira, Confluence, Agile Methodology  
-- **Key Outcomes:** Improved sprint efficiency, reduced bottlenecks, enhanced cross-team collaboration.  
-- **[View Project](#)**  
-
-### 4. **Lean Six Sigma – Process Optimization**  
-- **Description:** Applied **Lean Six Sigma** methodologies to optimize an internal business process, reducing inefficiencies and increasing productivity.  
-- **Tools:** Lean Six Sigma, Excel, Data Analysis  
-- **Key Outcomes:** 20% improvement in process efficiency, reduced waste, improved resource utilization.  
-- **[View Project](#)**  
-
-### 5. **SaaS Project Management – CRM Implementation**  
-- **Description:** Managed the implementation of a **SaaS-based CRM platform**, overseeing requirements gathering, vendor coordination, and user training.  
-- **Tools:** CRM Software, Project Management Frameworks  
-- **Key Outcomes:** Increased customer retention, improved lead tracking, streamlined operations.  
-- **[View Project](#)**  
-
+  ### 3. **Blinkit Sales Performance Analysis – Excel Dashboard**  
+- **Description:** Designed an interactive **Excel dashboard** to evaluate Blinkit’s sales performance, customer satisfaction, and inventory trends. The project highlights key performance indicators to help uncover actionable insights that support business optimization and strategic planning.
+- **Tools:** Microsoft Excel, Data Cleaning & Pivot Tables
+- **Key Outcomes:** 
+     - Created dynamic visualizations (Donut Charts, Bar Charts, Line Graphs, and Pivot Tables) to identify sales trends by item type, fat content, outlet size, and location.
+     - Delivered detailed performance insights through calculated KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Rating.
+     - Enabled quick decision-making with a clean, interactive dashboard structure for stakeholders.
+     - Improved understanding of customer preferences and inventory allocation across different outlets.
+     
 ---
 
 ## Case Studies  
