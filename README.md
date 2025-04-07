@@ -20,7 +20,7 @@ This portfolio showcases my expertise through various projects that demonstrate 
 ## Projects  
 
 ### 1. **Bank Loan Analysis – Tableau Dashboard**  
-- **Description:**Developed an interactive **Tableau dashboard** to provide comprehensive insights into key loan-related metrics and their changes over time. This report aims to facilitate data-driven decision-making, track loan portfolio health, and identify trends to inform lending strategies. The dashboard serves as a powerful tool for analyzing loan approval trends, risk factors, and financial patterns for a banking institution. 
+- **Description:** Developed an interactive **Tableau dashboard** to provide comprehensive insights into key loan-related metrics and their changes over time. This report aims to facilitate data-driven decision-making, track loan portfolio health, and identify trends to inform lending strategies. The dashboard serves as a powerful tool for analyzing loan approval trends, risk factors, and financial patterns for a banking institution. 
 - **Tools:** Tableau, SQL, Excel  
 - **Key Outcomes:** 
      - Created a comprehensive and user-friendly interface for accessing vital loan data.
@@ -29,7 +29,9 @@ This portfolio showcases my expertise through various projects that demonstrate 
      - Enhanced decision-making processes.
      - Automated data visualization for efficient analysis.
 - **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BankLoan)**
-![Bank Loan Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BankLoan/Images)  
+![Bank Loan Dashboard 1](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images/Bank_Loan_Dashboard_Details.png)  
+![Bank Loan Dashboard 2](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images/Bank_Loan_Dashboard_Overview.png)
+![Bank Loan Dashboard 3](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images/Bank_Loan_Dashboard_Summary.png)
 
 ### 2. **Power BI Project Management Dashboard**  
 - **Description:** A dynamic **Power BI dashboard** designed to track and analyze project performance across multiple dimensions, including cost, benefit, complexity, and progress. It provides real-time insights to project managers for better decision-making.
@@ -50,7 +52,9 @@ This portfolio showcases my expertise through various projects that demonstrate 
      - Delivered detailed performance insights through calculated KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Rating.
      - Enabled quick decision-making with a clean, interactive dashboard structure for stakeholders.
      - Improved understanding of customer preferences and inventory allocation across different outlets.
-     
+**[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BlinkitSalesPerformanceDashboard)**  
+![Project Management Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BlinkitSalesPerformanceDashboard/Blinkit_Sales_Performance_Dashboard_View.png) 
+
 ---
 
 ## Case Studies  
