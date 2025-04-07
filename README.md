@@ -29,6 +29,7 @@ This portfolio showcases my expertise through various projects that demonstrate 
      - Enhanced decision-making processes.
      - Automated data visualization for efficient analysis.
 - **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BankLoan)**
+
 ![Bank Loan Dashboard 1](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images/Bank_Loan_Dashboard_Details.png)  
 ![Bank Loan Dashboard 2](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images/Bank_Loan_Dashboard_Overview.png)
 ![Bank Loan Dashboard 3](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BankLoan/Images/Bank_Loan_Dashboard_Summary.png)
@@ -52,7 +53,9 @@ This portfolio showcases my expertise through various projects that demonstrate 
      - Delivered detailed performance insights through calculated KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Rating.
      - Enabled quick decision-making with a clean, interactive dashboard structure for stakeholders.
      - Improved understanding of customer preferences and inventory allocation across different outlets.
-**[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BlinkitSalesPerformanceDashboard)**  
+
+- **[View Project](https://github.com/RidhimaGitCraft/project-management-portfolio/tree/main/BlinkitSalesPerformanceDashboard)**  
+
 ![Project Management Dashboard](https://github.com/RidhimaGitCraft/project-management-portfolio/blob/main/BlinkitSalesPerformanceDashboard/Blinkit_Sales_Performance_Dashboard_View.png) 
 
 ---
