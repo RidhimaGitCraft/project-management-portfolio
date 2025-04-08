@@ -11,7 +11,7 @@ With over **6 years of industry experience**, including **4 years as a project m
 - **Data-driven decision-making**  
 - **Stakeholder collaboration**  
 
-I have hands-on experience with tools like **Power BI, SQL, Excel, Jira, Confluence, Tableau, and CRM software**, along with expertise in **Lean Six Sigma methodologies** and **SaaS project management**.  
+I have hands-on experience with tools like **Power BI, SQL, Excel, Jira, Confluence, Tableau, and CRM software**, along with expertise in **SaaS project management**.  
 
 This portfolio showcases my expertise through various projects that demonstrate my ability to drive operational efficiency, enhance collaboration, and implement strategic solutions.  
 
